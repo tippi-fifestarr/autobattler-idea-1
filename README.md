@@ -10,6 +10,8 @@ Create documentation champions with unique abilities based on their roles:
 - **Developer**: Technical implementation and API documentation specialists
 - **Architect**: System design and scalability planning experts
 
+![Screen 1](./screen1.png)
+
 ## 🚀 Quick Deploy
 
 This project is ready for instant deployment on Vercel:
@@ -55,6 +57,9 @@ npm run dev
 - **Documentation-Themed**: All characters and abilities relate to documentation work
 - **Asynchronous**: Battles happen automatically without real-time interaction
 - **Progressive**: Characters improve over time through battles
+
+![Screen 2](./screen2.png)
+
 
 ## 🔮 Future Enhancements
 
